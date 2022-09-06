@@ -1,0 +1,13 @@
+{
+  "folders": [
+	{
+		"path": "../../Practice"
+	},
+	{
+		"path": ".."
+	}
+],
+  "settings": {
+    "liveServer.settings.multiRootWorkspaceName": "2022WebDevBootCamp"
+  }
+}
